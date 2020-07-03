@@ -1,0 +1,61 @@
+﻿  test_carray.cpp
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(27,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(40,9): warning C4101:  j: неиспользованная локальная переменная
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(40,6): warning C4101:  i: неиспользованная локальная переменная
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(41,6): warning C4101:  t: неиспользованная локальная переменная
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(57,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(74,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(111,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(118,24): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(133,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(135,25): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(184,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(194,24): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(242,1): warning C4002:  слишком много аргументов для вызова макроса, подобного функции, "BOOST_AUTO_TEST_CASE_WITH_DECOR"
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(139,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(132): message :  во время компиляции функции-члена класс шаблон "void CArray<int>::push_back(const TData &)"
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(132): message :         with
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(132): message :         [
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(132): message :             TData=int
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(132): message :         ]
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(32): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void CArray<int>::push_back(const TData &)"
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(32): message :         with
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(32): message :         [
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(32): message :             TData=int
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(32): message :         ]
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(32): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "CArray<int>"
+D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\boost\bind\placeholders.hpp(54): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::arg<9>"
+D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\boost\bind\placeholders.hpp(53): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::arg<8>"
+D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\boost\bind\placeholders.hpp(52): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::arg<7>"
+D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\boost\bind\placeholders.hpp(51): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::arg<6>"
+D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\boost\bind\placeholders.hpp(50): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::arg<5>"
+D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\boost\bind\placeholders.hpp(49): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::arg<4>"
+D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\boost\bind\placeholders.hpp(48): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::arg<3>"
+D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\boost\bind\placeholders.hpp(47): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::arg<2>"
+D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\boost\bind\placeholders.hpp(46): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::arg<1>"
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(164,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(156): message :  во время компиляции функции-члена класс шаблон "void CArray<int>::insert(unsigned int,const TData &)"
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(156): message :         with
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(156): message :         [
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(156): message :             TData=int
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(156): message :         ]
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(81): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void CArray<int>::insert(unsigned int,const TData &)"
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(81): message :         with
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(81): message :         [
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(81): message :             TData=int
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(81): message :         ]
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(169,29): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(244,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(241): message :  во время компиляции функции-члена класс шаблон "void CArray<int>::print(void)"
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(246): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void CArray<int>::print(void)"
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(262,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\src\CArray.h(254): message :  во время компиляции функции-члена класс шаблон "CArray<int> &CArray<int>::operator =(const CArray<int> &)"
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(62): message :  выполняется компиляция ссылки на экземпляр шаблон функции "CArray<int> &CArray<int>::operator =(const CArray<int> &)"
+D:\Код C++\CArray-Proj\CArray-Proj\util\util.h(15,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(45): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void selection_sort<CArray<int>>(T &)"
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(45): message :         with
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(45): message :         [
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(45): message :             T=CArray<int>
+D:\Код C++\CArray-Proj\CArray-Proj\test\test_carray.cpp(45): message :         ]
+D:\Код C++\CArray-Proj\CArray-Proj\util\util.h(18,25): warning C4018:  <: несоответствие типов со знаком и без знака
+  CArray-Proj.vcxproj -> D:\Код C++\CArray-Proj\Debug\CArray-Proj.exe
