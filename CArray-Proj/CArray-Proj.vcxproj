@@ -70,12 +70,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Код C++\CArray-Proj\CArray-Proj\Boost;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Код C++\CArray-Proj\CArray-Proj\Boost\libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Код C++\CArray-Proj\CArray-Proj\boost_1_73_0\libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Код C++\CArray-Proj\CArray-Proj\Boost;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Код C++\CArray-Proj\CArray-Proj\Boost\libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

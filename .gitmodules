@@ -1,0 +1,3 @@
+[submodule "CArray-Proj/Boost"]
+	path = CArray-Proj/Boost
+	url = https://github.com/blackberry/Boost.git
